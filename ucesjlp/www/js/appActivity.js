@@ -1,3 +1,3 @@
-function menuClicked() {
-alert("You clicked the menu");
-}<script src="js/appActivity.js"></script>
+function replaceGraphs() {
+document.getElementById(“graphdiv”).innerHTML =”<img src=’images/ucl.png’>”
+}
